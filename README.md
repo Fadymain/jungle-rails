@@ -12,9 +12,8 @@ Many features of this project were already in place. I was responsible for under
 
 ### New Pages:
 
-1. About Page
-2. Admin Dashboard Page (with metrics on categories and products available in-store)
-3. Order Details Page (updated with order information)
+1. Admin Dashboard Page (with metrics on categories and products available in-store)
+2. Order Details Page (updated with order information)
 
 ### Bug Fixes
 
@@ -30,8 +29,6 @@ Many features of this project were already in place. I was responsible for under
 !["Home Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Home%20Page.png)
 
 ### About Us Page
-
-!["About Us Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/About%20Us%20Page.png)
 
 ### Category Example Page (Apparel)
 
